@@ -12,4 +12,6 @@ public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDtVWQyQG0u0cRAbQbPIhoLqj+Pf1
 
 ec2_ami_id = "ami-06c4be2792f419b7b"
 
+ec2_user_data_install_apache = ""
+
 domain_name = "cloudaws.co.in"
